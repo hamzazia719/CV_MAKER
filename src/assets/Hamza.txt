@@ -1,0 +1,126 @@
+Hamza Zia
+
+
+hamzazia719@gmail.com
+03068359043
+Bahawalpur, Pakistan'
+https://www.linkedin.com/in/hamza-zia-65a401221/
+
+
+
+------------------------
+React Developer
+
+
+------------------------
+Experienced React developer with <b>2 year </b>of hands-on expertise in building dynamic and responsive web applications. Proficient in utilizing React.js libraries and state management, adept at crafting clean and modular code. Skilled in collaborating with cross-functional teams to deliver high-quality user interfaces.
+
+
+Education
+------------------------
+Bachelors in Computer Science
+The Islamia University of Bahawalpur
+Bahawalpur
+Courses
+
+
+Faculty Of Science
+National College of Commerce and Science
+Canal Rd, Hasilpur, Bahawalpur
+Courses
+
+
+Matriculation
+Govt. High School No.1 Hasilpur
+Hasilpur, Bahawalpur
+Courses
+
+
+
+
+
+WORK EXPERIENCE
+------------------------
+React Developer
+Enigmatix Pvt Ltd
+09/2023 - Present
+Bahawalpur
+Roles/Responsibilities
+- At Enigmatix Pvt Ltd, I excelled in front-end development, particularly in React.js, elevating user experiences through dynamic interface design 
+- My broad skill set in HTML, CSS, and JavaScript enables me to deliver comprehensive contributions, ensuring effective and versatile solutions in web application design. 
+- Experienced Frontend React Developer proficient in building responsive and dynamic user interfaces. Skilled in leveraging React.js to create seamless, high-performance web applications with a strong focus on user experience. 
+
+
+
+Internship
+Enigmatix Pvt Ltd
+03/2023 - 09/2023
+Roles/Responsibilities
+- Interned at Enigmatix, Bahawalpur, focusing on React.js development. Contributed to UI enhancements and collaborated on improving web application functionality.  
+
+
+
+
+
+
+Skills
+------------------------
+-HTML5
+-CSS
+-Javascript
+-React Js
+-SCSS
+-Tailwind CSS
+-Redux Toolkit
+-Ant Design
+-Bootstrap
+-Git
+-Git Hub
+-Typescript
+-React Form
+-Material UI
+-Styled Component
+-Mobx State Tree
+-Next JS
+-React Native
+-React Query
+-Software Clean Architecture
+
+
+
+Professional Projects
+------------------------
+OMS(Office Management System)
+01/2024 - Present
+-    As a developer on the OMS project, I’m building a micro frontend system using Single-SPA and React. MobX handles our state management, and styled-components keep our design consistent. We use a custom Storybook to make sure our UI components are polished and uniform  
+
+
+Real-State App
+10/2023 - 12/2023
+- To build a modern real estate website, leverage React.js with TypeScript, Redux Toolkit for state management, and React Router DOM for seamless navigation. Create dynamic components for property listings, detailed views, and user interactions to ensure a responsive and engaging user experience. 
+
+
+Ecommerce App
+10/2023 - 11/2023
+- Craft a dynamic eCommerce app using React.js, combining responsive design with powerful functionality to provide users with a seamless and enjoyable online shopping experience. 
+
+
+
+
+
+Languages
+------------------------
+-English- (80/100)
+-Urdu- (80/100)
+-Punjabi- (80/100)
+
+
+
+Interests
+------------------------
+-Problem Solving
+-Books Reading
+-Latest Web Technologies
+
+
+

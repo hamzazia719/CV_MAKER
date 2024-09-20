@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": "541c",
+      "firstName": "Hamza",
+      "lastName": "Zia",
+      "email": "hamzazia719@gmail.com",
+      "address": "tahir colony street no 2 old hasilpur",
+      "zipcode": "63000",
+      "city": "Bwp"
+    }
+  ],
+  "qualifications": [
+    {
+      "id": "ca86",
+      "degree": "bs-com",
+      "city": "bwp",
+      "school": "jinnah english model school",
+      "description": "laskhasiahiaiadu",
+      "startDate": "2024-04-18T19:00:00.000Z",
+      "endDate": "2024-12-18T19:00:00.000Z"
+    }
+  ],
+  "work_experence": [
+    {
+      "id": "a95b",
+      "job_title": "Frontend",
+      "city": "Bwp",
+      "employer": "full-time",
+      "description": "iodiytdyd ytdutdrv tytuyfuy ctry",
+      "startDate": "2024-01-18T19:00:00.000Z",
+      "endDate": "2024-11-18T19:00:00.000Z"
+    }
+  ]
+}
